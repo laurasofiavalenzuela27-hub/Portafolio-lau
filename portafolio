@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+	<title>Contáctame</title>
+</head>
+<body>
+<header class="row align-items-center">
+	
+</header>
+
+<main class="container">	
+		<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav mx-auto">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="index.html">Sobre mí</a>
+        </li>
+        <li class="nav-item">
+      <a class="nav-link active" aria-current="page" href="trabajos.html">Mis trabajos</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="Contáctame.html">Contáctame</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<section class="row align-items-start my-5">
+	<article class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+		<img src="img/perfil.png" class="img-fluid w-100">
+	</article>
+	<article class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+		<h3 class="mb-4">Contacto:</h3>
+		<p>Si deseas contactarme estas es mi información:</p>
+		<br>
+		<p>
+		Correo: lauchan27.business@gmail.com
+		</p>
+		<br>
+		<p>
+		Teléfono: (+57) 3102764322
+		</p>
+		<br>
+		<p>Redes:</p>
+		<a href="https://www.linkedin.com/in/laura-sof%C3%ADa-valenzuela-enciso-221877364/"><i class="bi bi-linkedin"><p>@Laura Sofía Valenzuela Enciso</p></i></a>
+		<a href="https://www.behance.net/laurasvalenzu"><i class="bi bi-behance"><p>@Lau Chan_27</p></i></a>
+		<a href="https://www.instagram.com/lau.chan_27?stkn=MTJ5aWFwNGNzbXh4bw=="><i class="bi bi-instagram"><p>@Lau.chan_27</p></i></a>
+	</article>
+</section>	
+
+	
+
+<footer class="row">
+	<div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
+		<h5>REDES:</h5>
+		<a href="https://www.instagram.com/lau.chan_27?stkn=MTJ5aWFwNGNzbXh4bw=="><i class="bi bi-instagram"></i></a>
+		<a href="https://www.tiktok.com/@lauchan_27"><i class="bi bi-tiktok"></i></a>
+		<a href="https://www.youtube.com/channel/UCTm_TiErnuDnIK3_jLNNEJw"><i class="bi bi-youtube"></i></a>
+	</div>
+
+	<div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4" >
+		<h5>CONTACTOS:</h5>
+		<h6>(+57) 3102764322</h6>
+		<h6>lauchan27.business@gmail.com</h6>
+	</div>
+	
+    <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
+		<h5>HORARIOS:</h5>
+		<h6>De lunes a sábado: 7:00 a 6:00</h6>
+	</div>
+</footer>
+
+</main>
+
+	
+
+
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Portafolio</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+	<link href="https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.1/dist/fancybox/fancybox.css"/>
+	
+</head>
+<body>
+		<header id="imagen">
+			<img class="img-cube" src="img/perfil.png">
+		<br>
+		<h1>Laura Sofía Valenzuela Enciso </h1>	
+		<h2>Diseñadora visual</h2> 
+		<br>
+		<h3>El diseño como una herramienta para construir identidad, transmitir mensajes claros y generar conexiones significativas</h3>
+		</header>
+
+		<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav mx-auto">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="index.html">Sobre mí</a>
+        </li>
+        <li class="nav-item">
+      <a class="nav-link active" aria-current="page" href="trabajos.html">Mis trabajos</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="Contáctame.html">Contáctame</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+	
+	<main>
+	<section id="pres">
+		<br>
+		<br>
+		<h3>Sobre mí</h3>
+		<br>
+		<p>Soy una diseñadora visual en formación, enfocada en desarrollar soluciones gráficas que combinan estrategia, estética y comunicación efectiva. Entiendo el diseño como una herramienta para construir identidad, transmitir mensajes claros y generar conexiones significativas.</p>
+		<p>Como estudiante, estoy en constante aprendizaje y evolución, buscando ampliar mi mirada creativa y fortalecer mis habilidades para aportar valor real en cada proyecto.</p>
+		<p>Actualmente resido en Bogotá/Colombia, pero siempre busco nuevos lugares para evolucionar.</p>
+	</section>	
+	<section class="trabajos">
+		<br>
+		<br>
+		<h3>Algunos de mis trabajos</h3>
+		<br>
+		<h5>Piezas gráficas</h5>
+		<br>
+		<a href="img/1a.png"
+        data-fancybox="gallery">
+        <img src="img/1.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      		<a href="img/2a.png"
+        data-fancybox="gallery">
+        <img src="img/2.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      		<a href="img/3a.png"
+        data-fancybox="gallery">
+        <img src="img/3.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <br>
+      <br>
+      		<a href="img/4a.jpeg"
+        data-fancybox="gallery">
+        <img src="img/4.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      		<a href="img/5a.jpeg"
+        data-fancybox="gallery">
+        <img src="img/5.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      		<a href="img/6a.jpg"
+        data-fancybox="gallery">
+        <img src="img/6.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+	</section>
+	<br>
+    <br>
+	<section class="row videos">
+		<br>
+		<h5>Edición de videos</h5>
+		<br>
+		<br>
+    <br>
+		<video controls src="video/Despues de todo.mp4" class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6"></video>
+		<video controls src="video/Nos acercamos o nos perdemos.mp4" class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6"></video>
+		<br>
+    <br>
+    <br>
+    <br>
+		<video controls src="video/animatic.mp4" class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6"></video>
+		<video controls src="video/video dia de diversion.mp4" class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6"></video>
+	</section>
+    <br>
+    <br>
+    <br>
+    <br>
+
+<footer class="row">
+	<div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
+		<h5>REDES:</h5>
+		<a href="https://www.instagram.com/lau.chan_27?stkn=MTJ5aWFwNGNzbXh4bw=="><i class="bi bi-instagram"></i></a>
+		<a href="https://www.tiktok.com/@lauchan_27"><i class="bi bi-tiktok"></i></a>
+		<a href="https://www.youtube.com/channel/UCTm_TiErnuDnIK3_jLNNEJw"><i class="bi bi-youtube"></i></a>
+	</div>
+
+	<div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4" >
+		<h5>CONTACTOS:</h5>
+		<h6>(+57) 3102764322</h6>
+		<h6>lauchan27.business@gmail.com</h6>
+	</div>
+	
+    <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
+		<h5>HORARIOS:</h5>
+		<h6>De lunes a sábado: 7:00 a 6:00</h6>
+	</div>
+</footer>
+
+
+	</main>
+
+	<script src="js/bootstrap.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.1/dist/fancybox/fancybox.umd.js"></script>
+    <script>
+      Fancybox.bind("[data-fancybox]", {
+        // Your custom options
+      });
+    </script>
+</body>
+
+
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+	<title>proyectos</title>
+</head>
+<body>
+	<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav mx-auto">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="index.html">Sobre mí</a>
+        </li>
+        <li class="nav-item">
+      <a class="nav-link active" aria-current="page" href="trabajos.html">Mis trabajos</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="Contáctame.html">Contáctame</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+	<section class="trabajos">
+		<br>
+		<br>
+		<h3>Mis trabajos</h3>
+		<br>
+		<h5>Afiches</h5>
+		<br>
+		<a href="img/1a.png"
+        data-fancybox="gallery">
+        <img src="img/1.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      		<a href="img/2a.png"
+        data-fancybox="gallery">
+        <img src="img/2.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      		<a href="img/7a.png"
+        data-fancybox="gallery">
+        <img src="img/7.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <br>
+      <br>
+      		<a href="img/8a.jpg"
+        data-fancybox="gallery">
+        <img src="img/8.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      		<a href="img/9a.jpeg"
+        data-fancybox="gallery">
+        <img src="img/9.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+	</section>
+	<br>
+  <br>
+		<section class="trabajos">
+		<br>
+		<h5>Revista</h5>
+		<br>
+		<a href="img/revista1.jpg"
+        data-fancybox="gallery">
+        <img src="img/33.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+    <a href="img/revista2.jpg"
+        data-fancybox="gallery">
+        <img src="img/34.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/revista3.jpg"
+        data-fancybox="gallery">
+        <img src="img/35.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/revista4.jpg"
+        data-fancybox="gallery">
+        <img src="img/36.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/revista5.jpg"
+        data-fancybox="gallery">
+        <img src="img/37.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/revista6.jpg"
+        data-fancybox="gallery">
+        <img src="img/38.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/revista7.jpg"
+        data-fancybox="gallery">
+        <img src="img/39.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/revista8.jpg"
+        data-fancybox="gallery">
+        <img src="img/40.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/6a.jpg"
+        data-fancybox="gallery">
+        <img src="img/6.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+	</section>
+	<br>
+  <br>
+  		<section class="trabajos">
+		<br>
+		<h5>Muisca</h5>
+		<br>
+		<a href="img/3a.png"
+        data-fancybox="gallery">
+        <img src="img/3.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+    <a href="img/muisca1.png"
+        data-fancybox="gallery">
+        <img src="img/20.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+    <a href="img/muisca2.jpeg"
+        data-fancybox="gallery">
+        <img src="img/21.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+    <a href="img/muisca3.jpeg"
+        data-fancybox="gallery">
+        <img src="img/22.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+    <a href="img/muisca4.png"
+        data-fancybox="gallery">
+        <img src="img/23.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+    <a href="img/muisca5.png"
+        data-fancybox="gallery">
+        <img src="img/24.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+    <a href="img/muisca6.jpg"
+        data-fancybox="gallery">
+        <img src="img/25.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+    <a href="img/muisca7.jpeg"
+        data-fancybox="gallery">
+        <img src="img/26.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+    <a href="img/muisca8.jpeg"
+        data-fancybox="gallery">
+        <img src="img/27.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+    <a href="img/muisca9.jpeg"
+        data-fancybox="gallery">
+        <img src="img/28.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+    <a href="img/muisca10.jpeg"
+        data-fancybox="gallery">
+        <img src="img/29.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+    <a href="img/muisca11.jpeg"
+        data-fancybox="gallery">
+        <img src="img/30.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+    <a href="img/muisca12.jpeg"
+        data-fancybox="gallery">
+        <img src="img/31.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+    <a href="img/muisca13.jpeg"
+        data-fancybox="gallery">
+        <img src="img/32.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+    <a href="img/4a.jpeg"
+        data-fancybox="gallery">
+        <img src="img/4.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+	</section>
+  <br>
+  <br>
+<section class="trabajos">
+		<br>
+		<h5>Ilustraciones</h5>
+		<br>
+		<a href="img/ilustracion1.jpeg"
+        data-fancybox="gallery">
+        <img src="img/10.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/ilustracion2.jpeg"
+        data-fancybox="gallery">
+        <img src="img/11.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/ilustracion3.jpeg"
+        data-fancybox="gallery">
+        <img src="img/12.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/ilustracion4.jpeg"
+        data-fancybox="gallery">
+        <img src="img/13.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/ilustracion5.jpeg"
+        data-fancybox="gallery">
+        <img src="img/14.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/ilustracion6.jpeg"
+        data-fancybox="gallery">
+        <img src="img/15.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/ilustracion7.jpeg"
+        data-fancybox="gallery">
+        <img src="img/16.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/ilustracion8.jpeg"
+        data-fancybox="gallery">
+        <img src="img/17.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/ilustracion9.jpeg"
+        data-fancybox="gallery">
+        <img src="img/18.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/ilustracion10.jpeg"
+        data-fancybox="gallery">
+        <img src="img/19.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+      <a href="img/5a.jpeg"
+        data-fancybox="gallery">
+        <img src="img/5.png"
+          width="200"
+          height="150"
+          alt="Sample image #1"/>
+      </a>
+	</section>
+  <br>
+  <br>
+	<section class="row videos">
+		<br>
+		<h5>Edición de videos</h5>
+		<br>
+		<br>
+        <br>
+	<video controls src="video/Despues de todo.mp4" class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6"></video>
+	<video controls src="video/Nos acercamos o nos perdemos.mp4" class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6"></video>
+	<br>
+    <br>
+    <br>
+    <br>
+		<video controls src="video/animatic.mp4" class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6"></video>
+		<video controls src="video/video dia de diversion.mp4" class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6"></video>
+	</section>
+    <br>
+    <br>
+    <br>
+    <br>
+	<main>
+	<br>
+	<br>
+
+<footer class="row">
+	<div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
+		<h5>REDES:</h5>
+		<a href="https://www.instagram.com/lau.chan_27?stkn=MTJ5aWFwNGNzbXh4bw=="><i class="bi bi-instagram"></i></a>
+		<a href="https://www.tiktok.com/@lauchan_27"><i class="bi bi-tiktok"></i></a>
+		<a href="https://www.youtube.com/channel/UCTm_TiErnuDnIK3_jLNNEJw"><i class="bi bi-youtube"></i></a>
+	</div>
+
+	<div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4" >
+		<h5>CONTACTOS:</h5>
+		<h6>(+57) 3102764322</h6>
+		<h6>lauchan27.business@gmail.com</h6>
+	</div>
+	
+    <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
+		<h5>HORARIOS:</h5>
+		<h6>De lunes a sábado: 7:00 a 6:00</h6>
+	</div>
+</footer>
+
+</main>
+	
+
+
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
